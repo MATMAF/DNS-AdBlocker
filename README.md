@@ -21,3 +21,8 @@ The goal is to block all ads from websites using a dns server
 
 - https://github.com/MATMAF/DNS-AdBlocker/blob/main/adlist.json
 - https://raw.githubusercontent.com/MATMAF/DNS-AdBlocker/main/adlist.json
+
+
+# The two servers backup
+- https://github.com/MATMAF/DNS-AdBlocker/blob/main/pi-hole-dns1-stra-teleporter_2022-06-03_17-53-56.tar.gz
+- https://github.com/MATMAF/DNS-AdBlocker/blob/main/pi-hole-dns2-grav-teleporter_2022-06-03_17-54-03.tar.gz
