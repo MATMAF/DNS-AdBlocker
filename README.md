@@ -20,5 +20,4 @@ The goal is to block all ads from websites using a dns server
 # AdList use
 
 --> https://github.com/MATMAF/DNS-AdBlocker/blob/main/adlist.json
-or
 --> https://raw.githubusercontent.com/MATMAF/DNS-AdBlocker/main/adlist.json
