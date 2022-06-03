@@ -2,7 +2,7 @@
 
 This project use pi-hole
 
---> https://www.pi-hole.net
+- https://www.pi-hole.net
 
 The goal is to block all ads from websites using a dns server
 
@@ -14,10 +14,10 @@ The goal is to block all ads from websites using a dns server
 
 # Tutorial
 
---> https://www.hellotech.com/guide/for/how-to-change-dns-server-windows-mac
+- https://www.hellotech.com/guide/for/how-to-change-dns-server-windows-mac
 
 
 # AdList use
 
---> https://github.com/MATMAF/DNS-AdBlocker/blob/main/adlist.json
---> https://raw.githubusercontent.com/MATMAF/DNS-AdBlocker/main/adlist.json
+- https://github.com/MATMAF/DNS-AdBlocker/blob/main/adlist.json
+- https://raw.githubusercontent.com/MATMAF/DNS-AdBlocker/main/adlist.json
