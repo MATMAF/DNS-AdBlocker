@@ -1,4 +1,4 @@
-# dns-blocker
+# DNS AdBlocker
 
 This project use pi-hole
 
