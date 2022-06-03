@@ -6,5 +6,7 @@ This project use pi-hole
 
 The goal is to block all ads from websites using a dns server
 
+
+# The two dns servers
 - 5.196.23.49
 - 51.77.159.33
