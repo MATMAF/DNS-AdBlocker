@@ -15,3 +15,8 @@ The goal is to block all ads from websites using a dns server
 # Tutorial
 
 --> https://www.hellotech.com/guide/for/how-to-change-dns-server-windows-mac
+
+
+# AdList use
+
+--> https://github.com
